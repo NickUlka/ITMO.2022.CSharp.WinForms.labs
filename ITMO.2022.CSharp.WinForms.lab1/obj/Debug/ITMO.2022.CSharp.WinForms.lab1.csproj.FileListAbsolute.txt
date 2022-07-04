@@ -1,0 +1,11 @@
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\bin\Debug\ITMO.2022.CSharp.WinForms.lab1.exe.config
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\bin\Debug\ITMO.2022.CSharp.WinForms.lab1.exe
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\bin\Debug\ITMO.2022.CSharp.WinForms.lab1.pdb
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO.2022.CSharp.WinForms.lab1.csproj.AssemblyReference.cache
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO.2022.CSharp.WinForms.lab1.csproj.SuggestedBindingRedirects.cache
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO._2022.CSharp.WinForms.lab1.Form1.resources
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO._2022.CSharp.WinForms.lab1.Properties.Resources.resources
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO.2022.CSharp.WinForms.lab1.csproj.GenerateResource.cache
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO.2022.CSharp.WinForms.lab1.csproj.CoreCompileInputs.cache
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO.2022.CSharp.WinForms.lab1.exe
+D:\WinForms & WinPresentationFoundation\ITMO.2022.CSharp.WinForms.labs\ITMO.2022.CSharp.WinForms.lab1\obj\Debug\ITMO.2022.CSharp.WinForms.lab1.pdb

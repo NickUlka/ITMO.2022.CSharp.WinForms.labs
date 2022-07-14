@@ -7,7 +7,7 @@
     <ProjectGuid>{6D64698F-52F1-4C0F-9CAE-948E27DF5758}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ITMO._2022.CSharp.WinForms.lab2._7</RootNamespace>
-    <AssemblyName>ITMO.2022.CSharp.WinForms.lab2.7</AssemblyName>
+    <AssemblyName>ITMO.2022.CSharp.WinForms.lab2.7-2.8</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
